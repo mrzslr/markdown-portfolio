@@ -1,4 +1,7 @@
-* I wanna use emphasis *
-_ what is this_
-** which one **
-__ and what then __
+*This text will be italic*
+_This will also be italic_
+
+**This text will be bold**
+__This will also be bold__
+
+_You **can** combine them_
